@@ -40,13 +40,12 @@ public class Toy implements Comparable<Toy> {
     }
 
     public Toy toyFromString(String[] info) {
-        Toy toy = new Toy(Integer.parseInt(info[0]), info[1], Math.abs(Integer.parseInt(info[2])));
-        return toy;
+        return new Toy(Integer.parseInt(info[0]), info[1], Math.abs(Integer.parseInt(info[2])));
     }
 
     @Override
     public String toString() {
-        return String.format("id = %d: %s\n", id, name);
+        return String.format("id = %d: %s (weight=%d)\n", id, name, weight);
     }
 
     @Override

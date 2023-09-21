@@ -16,10 +16,19 @@ public class Main {
         ToysVendingMachine machine = new ToysVendingMachine(new PriorityQueue<>());
 
         System.out.println("Введите количество видов игрушек, которое вы хотите поместить в автомат:");
-        int qtyToys = Integer.parseInt(scanner.nextLine());
+        int qtyToys;
+        do{
+            try {
+                qtyToys = Integer.parseInt(scanner.nextLine());
+                break;
+            } catch (NumberFormatException e){
+                System.out.println("Неверно введено количество, повторите попытку ввода:");
+            }
+        } while (true);
+
 
         File toysBefore = new File("D:\\GeekBrains\\ToyStoreJava\\src\\ToysBeforeGetting.txt");
-        FileWriter start = new FileWriter(toysBefore, true);
+        FileWriter start = new FileWriter(toysBefore);
 
         List<String[]> infoToys = insertInfo(qtyToys);
         machine.PutInMachine(infoToys);
@@ -29,7 +38,7 @@ public class Main {
         start.flush();
 
         File prise = new File("D:\\GeekBrains\\ToyStoreJava\\src\\YourPrise.txt");
-        FileWriter play = new FileWriter(prise, true);
+        FileWriter play = new FileWriter(prise);
 
         int count = 10;
 
@@ -40,7 +49,7 @@ public class Main {
         play.flush();
 
         File toysAfter = new File("D:\\GeekBrains\\ToyStoreJava\\src\\ToysAfterGetting.txt");
-        FileWriter finish = new FileWriter(toysAfter, true);
+        FileWriter finish = new FileWriter(toysAfter);
         for (Toy toy: machine.getToys()) {
             finish.write(toy.toString());
         }
