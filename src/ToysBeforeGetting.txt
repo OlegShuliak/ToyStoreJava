@@ -1,100 +1,100 @@
-id = 2: Solder
-id = 2: Solder
-id = 1: Doll
-id = 2: Solder
-id = 4: Dog
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 4: Dog
-id = 1: Doll
-id = 3: Cat
-id = 2: Solder
-id = 3: Cat
-id = 3: Cat
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 4: Dog
-id = 4: Dog
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 2: Solder
-id = 1: Doll
-id = 1: Doll
-id = 3: Cat
-id = 2: Solder
-id = 2: Solder
-id = 3: Cat
-id = 2: Solder
-id = 1: Doll
-id = 1: Doll
-id = 4: Dog
-id = 4: Dog
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 4: Dog
-id = 1: Doll
-id = 2: Solder
-id = 4: Dog
-id = 1: Doll
-id = 4: Dog
-id = 4: Dog
-id = 4: Dog
-id = 2: Solder
-id = 1: Doll
-id = 2: Solder
-id = 1: Doll
-id = 2: Solder
-id = 2: Solder
-id = 3: Cat
-id = 3: Cat
-id = 3: Cat
-id = 2: Solder
-id = 1: Doll
-id = 3: Cat
-id = 3: Cat
-id = 3: Cat
-id = 1: Doll
-id = 3: Cat
-id = 1: Doll
-id = 3: Cat
-id = 1: Doll
-id = 3: Cat
-id = 3: Cat
-id = 4: Dog
-id = 1: Doll
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 1: Doll
-id = 4: Dog
-id = 4: Dog
-id = 2: Solder
-id = 1: Doll
-id = 4: Dog
-id = 1: Doll
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 1: Doll
-id = 4: Dog
-id = 2: Solder
-id = 4: Dog
-id = 4: Dog
-id = 2: Solder
-id = 1: Doll
-id = 2: Solder
-id = 2: Solder
-id = 4: Dog
-id = 4: Dog
+id = 2: Solder (weight=0)
+id = 3: Cat (weight=2)
+id = 2: Solder (weight=1)
+id = 2: Solder (weight=5)
+id = 4: Dog (weight=4)
+id = 4: Dog (weight=4)
+id = 1: Doll (weight=3)
+id = 1: Doll (weight=7)
+id = 2: Solder (weight=8)
+id = 1: Doll (weight=13)
+id = 2: Solder (weight=5)
+id = 2: Solder (weight=8)
+id = 2: Solder (weight=22)
+id = 2: Solder (weight=14)
+id = 3: Cat (weight=18)
+id = 1: Doll (weight=22)
+id = 3: Cat (weight=7)
+id = 2: Solder (weight=15)
+id = 4: Dog (weight=12)
+id = 4: Dog (weight=14)
+id = 2: Solder (weight=24)
+id = 1: Doll (weight=21)
+id = 4: Dog (weight=5)
+id = 2: Solder (weight=10)
+id = 4: Dog (weight=8)
+id = 2: Solder (weight=27)
+id = 1: Doll (weight=27)
+id = 2: Solder (weight=39)
+id = 2: Solder (weight=31)
+id = 2: Solder (weight=42)
+id = 3: Cat (weight=29)
+id = 2: Solder (weight=25)
+id = 3: Cat (weight=22)
+id = 3: Cat (weight=14)
+id = 4: Dog (weight=7)
+id = 4: Dog (weight=46)
+id = 4: Dog (weight=20)
+id = 4: Dog (weight=33)
+id = 4: Dog (weight=13)
+id = 4: Dog (weight=29)
+id = 2: Solder (weight=29)
+id = 4: Dog (weight=58)
+id = 4: Dog (weight=27)
+id = 2: Solder (weight=39)
+id = 4: Dog (weight=34)
+id = 2: Solder (weight=21)
+id = 1: Doll (weight=39)
+id = 2: Solder (weight=40)
+id = 4: Dog (weight=12)
+id = 1: Doll (weight=21)
+id = 1: Doll (weight=59)
+id = 2: Solder (weight=61)
+id = 1: Doll (weight=55)
+id = 2: Solder (weight=62)
+id = 2: Solder (weight=49)
+id = 1: Doll (weight=55)
+id = 2: Solder (weight=44)
+id = 2: Solder (weight=54)
+id = 1: Doll (weight=34)
+id = 1: Doll (weight=54)
+id = 2: Solder (weight=46)
+id = 2: Solder (weight=61)
+id = 3: Cat (weight=45)
+id = 1: Doll (weight=58)
+id = 3: Cat (weight=42)
+id = 1: Doll (weight=52)
+id = 3: Cat (weight=43)
+id = 1: Doll (weight=63)
+id = 2: Solder (weight=41)
+id = 3: Cat (weight=56)
+id = 2: Solder (weight=56)
+id = 1: Doll (weight=74)
+id = 4: Dog (weight=64)
+id = 4: Dog (weight=34)
+id = 1: Doll (weight=32)
+id = 1: Doll (weight=61)
+id = 2: Solder (weight=37)
+id = 2: Solder (weight=55)
+id = 4: Dog (weight=17)
+id = 1: Doll (weight=63)
+id = 4: Dog (weight=52)
+id = 4: Dog (weight=57)
+id = 1: Doll (weight=51)
+id = 2: Solder (weight=64)
+id = 4: Dog (weight=65)
+id = 4: Dog (weight=58)
+id = 1: Doll (weight=54)
+id = 1: Doll (weight=72)
+id = 4: Dog (weight=65)
+id = 4: Dog (weight=52)
+id = 2: Solder (weight=39)
+id = 2: Solder (weight=63)
+id = 4: Dog (weight=50)
+id = 4: Dog (weight=61)
+id = 4: Dog (weight=60)
+id = 1: Doll (weight=68)
+id = 4: Dog (weight=68)
+id = 1: Doll (weight=55)
+id = 4: Dog (weight=37)
+id = 2: Solder (weight=62)
